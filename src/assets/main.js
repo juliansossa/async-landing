@@ -1,5 +1,5 @@
 const content = null || document.getElementById("content");
-const API = "https://youtube-v31.p.rapidapi.com/search?channelId=UCw05fUBPwmpu-ehXFMqfdMw&part=snippet%2Cid&order=date&maxResults=9";
+const API = "https://youtube-v31.p.rapidapi.com/search?channelId=UC4FHiPgS1KXkUMx3dxBUtPg&part=snippet%2Cid&order=date&maxResults=9";
 
 const options = {
     method: 'GET',
